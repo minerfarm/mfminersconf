@@ -1,0 +1,948 @@
+{
+  "Universal": [
+    {
+      "Name": "Sandbox Pool (Universal)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4443",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Ubqhash": [
+    {
+      "Name": "Sandbox Pool (Ubqhash)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4445",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Ethash": [
+    {
+      "Name": "Sandbox Pool (Ethash)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4445",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash": [
+    {
+      "Name": "Sandbox Pool (Equihash)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4446",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightV8": [
+    {
+      "Name": "Sandbox Pool (CryptoNightV8)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightTurtle": [
+    {
+      "Name": "Sandbox Pool (CryptoNightTurtle)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightWOW": [
+    {
+      "Name": "Sandbox Pool (CryptoNightWOW)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightZLS": [
+    {
+      "Name": "Sandbox Pool (CryptoNightZLS)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightConceal": [
+    {
+      "Name": "Sandbox Pool (CryptoNightConceal)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightGPU": [
+    {
+      "Name": "Sandbox Pool (CryptoNightGPU)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightFastV2": [
+    {
+      "Name": "Sandbox Pool (CryptoNightFastV2)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightStelliteV5": [
+    {
+      "Name": "Sandbox Pool (CryptoNightStelliteV5)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CNReverseWaltz": [
+    {
+      "Name": "Sandbox Pool (CNReverseWaltz)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightR": [
+    {
+      "Name": "Sandbox Pool (CryptoNightR)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightDark": [
+    {
+      "Name": "Sandbox Pool (CryptoNightDark)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightUPX2": [
+    {
+      "Name": "Sandbox Pool (CryptoNightUPX2)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightUPX": [
+    {
+      "Name": "Sandbox Pool (CryptoNightUPX)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightSaber": [
+    {
+      "Name": "Sandbox Pool (CryptoNightSaber)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightV7": [
+    {
+      "Name": "Sandbox Pool (CryptoNightV7)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightStelliteV4": [
+    {
+      "Name": "Sandbox Pool (CryptoNightStelliteV4)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightZUM": [
+    {
+      "Name": "Sandbox Pool (CryptoNightZUM)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightLiteV7": [
+    {
+      "Name": "Sandbox Pool (CryptoNightLiteV7)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightItalo": [
+    {
+      "Name": "Sandbox Pool (CryptoNightItalo)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightHeavyX": [
+    {
+      "Name": "Sandbox Pool (CryptoNightHeavyX)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightHeavy": [
+    {
+      "Name": "Sandbox Pool (CryptoNightHeavy)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightHaven": [
+    {
+      "Name": "Sandbox Pool (CryptoNightHaven)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightFast": [
+    {
+      "Name": "Sandbox Pool (CryptoNightFast)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightB2N": [
+    {
+      "Name": "Sandbox Pool (CryptoNightB2N)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightArto": [
+    {
+      "Name": "Sandbox Pool (CryptoNightArto)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightAlloy": [
+    {
+      "Name": "Sandbox Pool (CryptoNightAlloy)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNight": [
+    {
+      "Name": "Sandbox Pool (CryptoNight)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CryptoNightTalleo": [
+    {
+      "Name": "Sandbox Pool (CryptoNightTalleo)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4447",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "EquihashSAFE": [
+    {
+      "Name": "Sandbox Pool (EquihashSAFE)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4448",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Zhash": [
+    {
+      "Name": "Sandbox Pool (Zhash)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4449",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash(125,4)": [
+    {
+      "Name": "Sandbox Pool (Equihash(125,4))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4449",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "EquihashBTG": [
+    {
+      "Name": "Sandbox Pool (EquihashBTG)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4449",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash(192,7)": [
+    {
+      "Name": "Sandbox Pool (Equihash(192,7))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4450",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": "ZcashPoW"
+    }
+  ],
+  "EquihashZER": [
+    {
+      "Name": "Sandbox Pool (EquihashZER)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4450",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "EquihashXSG": [
+    {
+      "Name": "Sandbox Pool (EquihashXSG)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4451",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash(144,5)": [
+    {
+      "Name": "Sandbox Pool (Equihash(144,5))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4451",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash(96,5)": [
+    {
+      "Name": "Sandbox Pool (Equihash(96,5))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4451",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "EquihashZEL": [
+    {
+      "Name": "Sandbox Pool (EquihashZEL)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4452",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "EquihashBTCZ": [
+    {
+      "Name": "Sandbox Pool (EquihashBTCZ)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4453",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Aion": [
+    {
+      "Name": "Sandbox Pool (Aion)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4454",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash(210,9)": [
+    {
+      "Name": "Sandbox Pool (Equihash(210,9))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4454",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Hex": [
+    {
+      "Name": "Sandbox Pool (Hex)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4455",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "ProgPow": [
+    {
+      "Name": "Sandbox Pool (ProgPow)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4456",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "LBRY": [
+    {
+      "Name": "Sandbox Pool (LBRY)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4457",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Allium": [
+    {
+      "Name": "Sandbox Pool (Allium)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4458",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "C11": [
+    {
+      "Name": "Sandbox Pool (C11)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4459",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Pascal": [
+    {
+      "Name": "Sandbox Pool (Pascal)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4460",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Blake (2s)": [
+    {
+      "Name": "Sandbox Pool (Blake (2s))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4461",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Blake (14r)": [
+    {
+      "Name": "Sandbox Pool (Blake (14r))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4461",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash(150,5)": [
+    {
+      "Name": "Sandbox Pool (Equihash(150,5))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4462",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "BeamHashII": [
+    {
+      "Name": "Sandbox Pool (BeamHashII)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4462",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CuckooCycle": [
+    {
+      "Name": "Sandbox Pool (CuckooCycle)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4463",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "cuckARoo29": [
+    {
+      "Name": "Sandbox Pool (cuckARoo29)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4464",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "cuckARood29": [
+    {
+      "Name": "Sandbox Pool (cuckARood29)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4464",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "cuckARoom29": [
+    {
+      "Name": "Sandbox Pool (cuckARoom29)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4464",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Cuckaroo29S": [
+    {
+      "Name": "Sandbox Pool (Cuckaroo29S)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4465",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "HoneyComb": [
+    {
+      "Name": "Sandbox Pool (HoneyComb)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4466",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Equihash+Scrypt": [
+    {
+      "Name": "Sandbox Pool (Equihash+Scrypt)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4467",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "ProgPowSERO": [
+    {
+      "Name": "Sandbox Pool (ProgPowSERO)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4468",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "X25X": [
+    {
+      "Name": "Sandbox Pool (X25X)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4469",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Tensority": [
+    {
+      "Name": "Sandbox Pool (Tensority)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4470",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Chukwa": [
+    {
+      "Name": "Sandbox Pool (Chukwa)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4471",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "ChukwaWRKZ": [
+    {
+      "Name": "Sandbox Pool (ChukwaWRKZ)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4472",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "RandomHash": [
+    {
+      "Name": "Sandbox Pool (RandomHash)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4473",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "RandomHash2": [
+    {
+      "Name": "Sandbox Pool (RandomHash2)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4473",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "cuckAToo31": [
+    {
+      "Name": "Sandbox Pool (cuckAToo31)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4474",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "PHI2": [
+    {
+      "Name": "Sandbox Pool (PHI2)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4475",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "ScryptSIPC": [
+    {
+      "Name": "Sandbox Pool (ScryptSIPC)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4476",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Eaglesong": [
+    {
+      "Name": "Sandbox Pool (Eaglesong)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4477",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "CuckooBFC": [
+    {
+      "Name": "Sandbox Pool (CuckooBFC)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4478",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "RandomX": [
+    {
+      "Name": "Sandbox Pool (RandomX)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4479",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "RandomSFX": [
+    {
+      "Name": "Sandbox Pool (RandomSFX)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4479",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Cortex": [
+    {
+      "Name": "Sandbox Pool (Cortex)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4480",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Blake (2s-Kadena)": [
+    {
+      "Name": "Sandbox Pool (Blake (2s-Kadena))",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4481",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Handshake": [
+    {
+      "Name": "Sandbox Pool (Handshake)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4482",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Blake2b+Sha3": [
+    {
+      "Name": "Sandbox Pool (Blake2b+Sha3)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4482",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "KAWPOW": [
+    {
+      "Name": "Sandbox Pool (KAWPOW)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4483",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "cuckARoo24": [
+    {
+      "Name": "Sandbox Pool (cuckARoo24)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4484",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "NeoScrypt": [
+    {
+      "Name": "PiMPtesting FTC coins2mine",
+      "Stratum": "stratum+tcp",
+      "URL": "coins2mine.com",
+      "Port": "19327",
+      "Wallet": "6vddTG4KoXGYA71MBSJKfa2jvm7Gnn4jF8",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Scrypt": [
+    {
+      "Name": "Mining-Dutch.nl: Multiport (Scrypt)",
+      "Stratum": "stratum+tcp",
+      "URL": "americas.scrypt.mining-dutch.nl",
+      "Port": "6668",
+      "Wallet": "DocDrydenn",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "SHA256": [
+    {
+      "Name": "Mining-Dutch.nl: Multiport (SHA256)",
+      "Stratum": "stratum+tcp",
+      "URL": "americas.sha256.mining-dutch.nl",
+      "Port": "9996",
+      "Wallet": "DocDrydenn",
+      "Pass": "x",
+      "Special": ""
+    }
+  ],
+  "Tellor": [
+    {
+      "Name": "Sandbox Pool (Tellor)",
+      "Stratum": "stratum+tcp",
+      "URL": "eu.sandbox.pool.ms",
+      "Port": "4485",
+      "Wallet": "1234567890",
+      "Pass": "x",
+      "Special": ""
+    }
+  ]
+}
