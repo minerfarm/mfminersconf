@@ -1,11 +1,11 @@
-# pimpminers-conf
+# mf-miners-conf
 
 ## Purpose
 
-This file is used by the PiMP OS 2.x applications `pimp` and `pimpup`, PiMP Operations (minerbuilder, jenkins), and PiMP OS 3.x applications, so far `confgen` and `benchtest`.
+This file is used by the MFOS OS 3.x applications including `confgen` and `benchtest`, Miner.farm DevOps (minerbuilder, jenkins)
 It is written by multiple automation tools. It is not meant to be user-editable.
 
-On PiMP Rigs, it is central to the operation of the applications and miners. It gets overwritten and updated periodically with updates.
+On MFOS Rigs, it is central to the operation of the applications and miners. It gets overwritten and updated periodically with updates.
 
 ## Structure
 
@@ -87,7 +87,7 @@ info: miner short name used as unique identifier and usually the dir name.
 
 platform: supported hardware.  amd, nvi, cpu, asic, or mixed
 
-repotype: (pimpup 2.x) git or binary. git means pull source and build directly on the rig. binary means download and deploy.
+repotype: git (legacy/deprecated) or binary. git means pull source and build directly on the rig. binary means download and deploy.
 
 repo: if repotype is git, the git repo url to clone. if repotype is binary, the url of the tarball to download and deploy.
 
