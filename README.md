@@ -1,4 +1,4 @@
-# mf-miners-conf
+# mf-minersconf
 
 ## Purpose
 
@@ -6,6 +6,8 @@ This file is used by the MFOS OS 3.x applications including `confgen` and `bench
 It is written by multiple automation tools. It is not meant to be user-editable.
 
 On MFOS Rigs, it is central to the operation of the applications and miners. It gets overwritten and updated periodically with updates.
+
+deploys to /opt/mfos/etc/mf-miners.conf
 
 ## Structure
 
